@@ -1,0 +1,1 @@
+{"name":"Local: symmetric","url":"d:\\xpsc\\week-2\\symmetric.cpp","tests":[{"id":1760360908656,"input":"5\n10\nserofedsoc\n3\nttf\n9\ntlrhgmaoi\n1\nw\n15\nhnndledmnhlttin\n","output":"codeforces\nfft\nalgorithm\nw\nmeetinthemiddle\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-2\\symmetric.cpp","group":"local","local":true}

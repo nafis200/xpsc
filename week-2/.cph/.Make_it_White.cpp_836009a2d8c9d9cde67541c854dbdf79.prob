@@ -1,0 +1,1 @@
+{"name":"Local: Make_it_White","url":"d:\\xpsc\\week-2\\Make_it_White.cpp","tests":[{"id":1760258505562,"input":"4\nabacaba\nacaba\nabacaba\nacab\n","output":"OK\nOK\nabacaba1\nOK\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-2\\Make_it_White.cpp","group":"local","local":true}

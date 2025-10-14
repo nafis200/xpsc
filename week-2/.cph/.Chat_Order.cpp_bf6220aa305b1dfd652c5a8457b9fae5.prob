@@ -1,0 +1,1 @@
+{"name":"Local: Chat_Order","url":"d:\\xpsc\\week-2\\Chat_Order.cpp","tests":[{"id":1760338830620,"input":"8\nalina\nmaria\nekaterina\ndarya\ndarya\nekaterina\nmaria\nalina\n","output":"alina\nmaria\nekaterina\ndarya\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-2\\Chat_Order.cpp","group":"local","local":true}
