@@ -1,0 +1,1 @@
+{"name":"Local: Berpizza","url":"d:\\xpsc\\week-3\\Berpizza.cpp","tests":[{"id":1760888600399,"input":"8\n1 103913\n3\n1 103913\n1 103913\n3\n1 103913\n1 103913\n2\n","output":"1 2 3 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-3\\Berpizza.cpp","group":"local","local":true}

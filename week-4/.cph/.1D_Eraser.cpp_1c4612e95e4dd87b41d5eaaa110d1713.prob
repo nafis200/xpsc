@@ -1,0 +1,1 @@
+{"name":"Local: 1D_Eraser","url":"d:\\xpsc\\week-4\\1D_Eraser.cpp","tests":[{"id":1761735281467,"input":"8\n6 3\nWBWWWB\n7 3\nWWBWBWW\n5 4\nBWBWB\n5 5\nBBBBB\n8 2\nBWBWBBBB\n10 2\nWBBWBBWBBW\n4 1\nBBBB\n3 2\nWWW\n","output":"2\n1\n2\n1\n4\n3\n4\n0\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-4\\1D_Eraser.cpp","group":"local","local":true}

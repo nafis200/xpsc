@@ -1,0 +1,1 @@
+{"name":"Local: Two-gram","url":"d:\\xpsc\\week-2\\Two-gram.cpp","tests":[{"id":1760432493333,"input":"5\nZZZAA\n","output":"ZZ\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-2\\Two-gram.cpp","group":"local","local":true}

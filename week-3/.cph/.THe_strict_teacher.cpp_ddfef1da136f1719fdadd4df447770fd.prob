@@ -1,0 +1,1 @@
+{"name":"Local: THe_strict_teacher","url":"d:\\xpsc\\week-3\\THe_strict_teacher.cpp","tests":[{"id":1760988009881,"input":"2\n8 1 1\n6\n3\n10 3 3\n1 4 8\n2 3 10\n","output":"5\n1\n1\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-3\\THe_strict_teacher.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Count_Occurences_of_Anagrams","url":"d:\\xpsc\\week-4\\Count_Occurences_of_Anagrams.cpp","tests":[{"id":1761546302302,"input":"zbcoejuvpvaboyg\npo","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-4\\Count_Occurences_of_Anagrams.cpp","group":"local","local":true}
