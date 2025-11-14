@@ -1,0 +1,1 @@
+{"name":"Local: Longest_Substring_with_K_Uniques","url":"d:\\xpsc\\week-5\\Longest_Substring_with_K_Uniques.cpp","tests":[{"id":1762521406768,"input":"aabacbebebe\n3","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-5\\Longest_Substring_with_K_Uniques.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Queries_about_less_or_equal_elements","url":"d:\\xpsc\\week-5\\Queries_about_less_or_equal_elements.cpp","tests":[{"id":1762584674197,"input":"5 4\n1 3 5 7 9\n6 4 2 8\n","output":"3 2 1 4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-5\\Queries_about_less_or_equal_elements.cpp","group":"local","local":true}
