@@ -1,0 +1,1 @@
+{"name":"Local: ALIEN-OR","url":"d:\\xpsc\\week-7\\ALIEN-OR.cpp","tests":[{"id":1763956249840,"input":"3\n2 2\n01\n10\n4 3\n000\n010\n011\n100\n6 3\n000\n001\n010\n011\n100\n101","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-7\\ALIEN-OR.cpp","group":"local","local":true}

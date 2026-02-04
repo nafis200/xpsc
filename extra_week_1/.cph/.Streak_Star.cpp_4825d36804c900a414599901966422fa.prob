@@ -1,0 +1,1 @@
+{"name":"Local: Streak_Star","url":"d:\\xpsc\\extra_week_1\\Streak_Star.cpp","tests":[{"id":1766134400393,"input":"3\n5 3\n1 2 1 4 2\n3 10\n2 5 3\n4 5\n90 2 5 6","output":"4\n3\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\extra_week_1\\Streak_Star.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Distinct_Binary_string","url":"d:\\xpsc\\week-7\\Distinct_Binary_string.cpp","tests":[{"id":1764006999860,"input":"3\n3\n100\n4\n1111\n5\n10110","output":"2\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-7\\Distinct_Binary_string.cpp","group":"local","local":true}

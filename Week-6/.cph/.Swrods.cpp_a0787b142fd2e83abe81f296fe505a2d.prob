@@ -1,0 +1,1 @@
+{"name":"Local: Swrods","url":"d:\\xpsc\\Week-6\\Swrods.cpp","tests":[{"id":1763195196813,"input":"7\n2 1000000000 4 6 8 4 2\n","output":"2999999987 2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\Week-6\\Swrods.cpp","group":"local","local":true}

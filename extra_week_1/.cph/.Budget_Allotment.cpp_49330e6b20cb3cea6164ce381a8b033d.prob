@@ -1,0 +1,1 @@
+{"name":"Local: Budget_Allotment","url":"d:\\xpsc\\extra_week_1\\Budget_Allotment.cpp","tests":[{"id":1766137734435,"input":"3\n3 2\n2 1 3\n3 3\n1 1 2\n4 2\n2 1 3 1","output":"3\n0\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\extra_week_1\\Budget_Allotment.cpp","group":"local","local":true}

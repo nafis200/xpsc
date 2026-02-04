@@ -1,0 +1,1 @@
+{"name":"Local: ice_cream_ball","url":"d:\\xpsc\\week-9\\ice_cream_ball.cpp","tests":[{"id":1768395265632,"input":"5\n1\n3\n6\n179\n1000000000000000000\n","output":"2\n3\n4\n27\n2648956421\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xpsc\\week-9\\ice_cream_ball.cpp","group":"local","local":true}
